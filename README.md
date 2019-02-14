@@ -1,2 +1,2 @@
 # resume_webvr
-My Virtual Resume.
+VR Resume is an attempt to create a virtual reality resume using the Aframe framework and Aframe text component. As it is VR, it requires Google Cardboard or some other VR tech for the ideal experience. This is simply a demo with dummy data. I'm not a 3D animator by any means, so positioning and whatever else may be off. Libraries are included in the repo because there were incompatibility issues with specific versions of the framework and components. Feel free to copy and use on your own, or fork and add improvements.
